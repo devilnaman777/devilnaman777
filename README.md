@@ -5,6 +5,12 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: 
 - ⚡ Fun fact: I AM ALONE
+- 🤖 Data Engineering:Few Month
+- 📜 I was became and good data Engineering and 
+     bring as good to improve hu hu
+-
+-
+
 
 <!---
 devilnaman777/devilnaman777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
