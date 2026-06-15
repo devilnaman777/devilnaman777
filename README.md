@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: 
 - ⚡ Fun fact: I AM ALONE
-- 🤖 Data Engineering:Few Month
+- 🤖 Data Engineering:Few year
 - 📜 I was became and good data Engineering and 
      bring as good to improve hu hu
 -
